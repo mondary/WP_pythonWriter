@@ -1,0 +1,11 @@
+# Configuration WordPress
+wordpress_config.json
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+venv/
+.env
